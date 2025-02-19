@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on cybersecurity and AI projects.
+🌱 I’m diving deeper into cybersecurity for 2025.
+📝 I regularly share my experiments and insights on my blog at [<website>](https://appventurer.com/).
+👯 I’m open to collaborating on any exciting projects!
+⚡ Fun fact: I don't know what i don't know...
+
+
 <!--
 **JJunHan/JJunHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

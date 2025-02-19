@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on cybersecurity and AI projects.
 - 🌱 I’m diving deeper into cybersecurity for 2025.
-- 📝 I regularly share my experiments and insights on my blog at [<website>](https://appventurer.com/).
+- 📝 I regularly share my experiments and insights on my blog at [https://appventurer.com/](https://appventurer.com/).
 - 👯 I’m open to collaborating on any exciting projects!
 - ⚡ Fun fact: I don't know what i don't know...
 
